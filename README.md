@@ -43,7 +43,7 @@ User user = AnnotationProcessor.process(User.class);
 
 ## Requirements
 
-- Java 11+
+- Java 8+
 - Maven 3.6+
 
 ## License
